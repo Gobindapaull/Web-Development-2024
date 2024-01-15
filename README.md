@@ -4,7 +4,10 @@
 [2] download and install google chrome
 
 [***] VS code extensions
-* live server
+* Vs code icons
+* Prettier
+* ES7
+* Live Preview
 
 [***] Tricks 
 * File > Auto Save enable
@@ -13,6 +16,7 @@
 [***] Shortcuts
 * ctrl + shift + k = delete line
 * ctrl + shift + p = command palette
+* alt + z = word wrap
 
 [***] Information
 * Client
@@ -24,6 +28,13 @@
 
 [***] Websites and tools
 * fast.com = internet speed check
+* ChatGPT
+
+[***] Work and Earn Money
+* Freelance - Upwork/Freelancer
+* API integration
+* Instagram Ads
+* Website Create
 
 
 
