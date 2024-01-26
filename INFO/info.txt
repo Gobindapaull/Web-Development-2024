@@ -1,0 +1,10 @@
+            THIRD PARTY APIS AND RESTFUL APIS
+            
+** To learn how third-party APIs work
+** allowing developers to make use of their data
+**  third parties — generally companies such as Facebook, Twitter, or Google 
+** mapping APIs to display custom maps on your pages
+** Third party APIs are located on third party servers
+
+** RESTful API - This API allows you to retrieve information and display it on your site.
+** we get data by making HTTP requests to specific URLs
