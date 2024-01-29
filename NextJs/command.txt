@@ -1,0 +1,14 @@
+node -v
+
+  npx create-next-app@latest .
+  npx shadcn-ui@latest init
+
+npm run dev
+
+npx shadcn-ui@latest add button
+
+app/test/page.tsx
+app/users/[userId]/page.tsx
+
+(test)
+_test
